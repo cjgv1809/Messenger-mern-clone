@@ -2,14 +2,18 @@
   text-align: center;
 }
 
+.App > img {
+  margin-top: 25px;
+}
+
 .app__form {
-  padding: 20px;
+  padding: 15px;
   position: fixed;
-  bottom: 20px;
-  z-index: 1;
+  bottom: 0px;
+  z-index: 10;
   background-color: #e9e9eb;
   width: 96%;
-  margin: 20px;
+  margin: 10px;
 }
 
 .app__formControl {
